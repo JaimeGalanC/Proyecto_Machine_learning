@@ -6,4 +6,8 @@ Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de 
 
 Analizaremos los factores que más impactan la pérdida. Predeciremos la probabilidad de pérdida (para el próximo mes) para cada cliente. Seleccionaremos los grupos más destacados y describiremos sus características principales.
 
-Este proyecto fue realizado usando jupyter notebook y python. Se hizó la carga de los datos usando archivos ".csv".
+1. Se hizó la carga de los datos usando archivos ".csv"
+2. Se realizó un análisis exploratorio de los datos
+3. Se construyeron modelos de Machine Learning y clústeres de usuarios
+
+Este proyecto fue realizado usando jupyter notebook y python.
